@@ -1,0 +1,6 @@
+#Izveidojiet Python programmu, kas saskaita no 1 līdz lietotāja ievadītam skaitlim, izmantojot for ciklu.
+
+skaitlis=1
+while skaitlis<=30:
+    print(skaitlis)
+    skaitlis+=1
