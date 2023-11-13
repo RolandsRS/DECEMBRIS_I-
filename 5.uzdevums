@@ -1,0 +1,7 @@
+Laiks=int (input("Ievadi laiku: "))
+if Laiks <=10:
+    print("Labrīt!")
+elif Laiks >=18:
+    print("Labdien!")
+else: Laiks =24
+print("Labvakar!")  
